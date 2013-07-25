@@ -1,0 +1,20 @@
+{
+	"name": "muaid/arphp",
+	"description": "Yii extension to intigrate the great library ar-PHP in Yii, ar-PHP is a great library to support Arabic in PHP Developed by Khaled Al-Sham'aa",
+	"keywords": ["yii", "framework", "arphp"],
+	"homepage": "http://www.yiiframework.com/",
+	"type": "library",
+	"license": "BSD-3-Clause",
+	"require": {
+		"yiisoft/yii": "dev-master"
+	},
+	"minimum-stability": "dev",
+	"authors": [
+		{
+			"name": "Muaid Al mohammadi",
+			"email": "dr.muaid@gmail.com",
+			"homepage": "http://www.muaid.com/",
+			"role": "Founder and project lead"
+		}
+	],
+}
