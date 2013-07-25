@@ -8,7 +8,6 @@
 	"require": {
 		"yiisoft/yii": "dev-master"
 	},
-	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Muaid Al mohammadi",
@@ -17,4 +16,5 @@
 			"role": "Founder and project lead"
 		}
 	],
+	"minimum-stability": "dev"
 }
