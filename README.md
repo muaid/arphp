@@ -1,4 +1,6 @@
-﻿ar-php extension is a wrapper extension to the great library [Ar-PHP](http://www.ar-php.org/) which is developed by [Khaled Al-Sham'aa](http://www.ar-php.org/about-php-arabic.html)
+﻿بسم الله الرحمن الرحيم
+
+ar-php extension is a wrapper extension to the great library [Ar-PHP](http://www.ar-php.org/) which is developed by [Khaled Al-Sham'aa](http://www.ar-php.org/about-php-arabic.html)
 
 > Note: using the library directly as a vendor without using an extension is better but the problem is that we should modify a file in the library to make it work and i preferred not to touch the lib files. (maybe i will make a wiki to explain how)
 
@@ -90,5 +92,5 @@ echo Yii::app()->I18N_Arabic->Numbers->int2str(1975); // ألف و تسعمئة 
 the same concept apply for all other features, and you can follow any feature link above for documentation and usage example.
 
 ##Resources
-
- * [ar-PHP](http://www.ar-php.org/)
+* code: [github](https://github.com/muaid/arphp.git)
+* official Library: [Ar-PHP](http://www.ar-php.org/)
