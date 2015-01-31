@@ -14,14 +14,12 @@ Thumbs.db
 
 # composer vendor dir
 /vendor
-# cubrid install dir
-/cubrid
 
 # composer itself is not needed
 composer.phar
 
 # composer.lock in applications is ignored since it's automatically created by composer when application is installed
-/apps/*/composer.lock
+composer.lock
 
 # Mac DS_Store Files
 .DS_Store
